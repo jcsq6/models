@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jc/Dropbox/c++Dev/opengl things/models/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++11 -o CMakeFiles/model.dir/src/main.cpp.o -c \"/home/jc/Dropbox/c++Dev/opengl things/models/src/main.cpp\"",
+  "file": "/home/jc/Dropbox/c++Dev/opengl things/models/src/main.cpp"
+}
+]

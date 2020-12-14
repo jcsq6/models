@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jc/Dropbox/c++Dev/opengl things/models/src/main.cpp
+shader.h
+/home/jc/Dropbox/c++Dev/opengl things/models/src/shader.h
+objects.h
+/home/jc/Dropbox/c++Dev/opengl things/models/src/objects.h
+glm/glm.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/jc/Dropbox/c++Dev/opengl things/models/src/objects.h
+fstream
+-
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+regex
+-
+GL/glew.h
+-
+glm/glm.hpp
+-
+
+/home/jc/Dropbox/c++Dev/opengl things/models/src/shader.h
+iostream
+-
+fstream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+string
+-
+

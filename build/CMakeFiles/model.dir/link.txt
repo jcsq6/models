@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g  -rdynamic CMakeFiles/model.dir/src/main.cpp.o  -o model  -lsoil2 -lglfw3 -ldl -lX11 -lpthread -lGLEW -lGLU -lGL 

@@ -1,0 +1,5 @@
+/home/jc/Dropbox/c++Dev/opengl things/models/build/CMakeFiles/edit_cache.dir
+/home/jc/Dropbox/c++Dev/opengl things/models/build/CMakeFiles/package_source.dir
+/home/jc/Dropbox/c++Dev/opengl things/models/build/CMakeFiles/rebuild_cache.dir
+/home/jc/Dropbox/c++Dev/opengl things/models/build/CMakeFiles/package.dir
+/home/jc/Dropbox/c++Dev/opengl things/models/build/CMakeFiles/model.dir
